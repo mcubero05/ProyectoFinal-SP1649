@@ -1,3 +1,5 @@
+# Proyecto Final: Estudio de patrones geográficos de la exclusión escolar en secundaria en Costa Rica
+# Resumen
 Este repositorio contiene el código y datos de la presentación sobre el proyecto final del curso SP-1649 Tópicos de Estadística Espacial Aplicada: Estudio de patrones geográficos de la exclusión escolar en secundaria en Costa Rica, 2015, desarrollado por Mariana Cubero Corella, como parte de la Maestría en Estadística de la Universidad de Costa Rica. El documento del informe final está disponible de forma abierta en Overleaf en el siguiente enlace: https://www.overleaf.com/read/vrdjgrpvbtdw.
 
 Estudio de patrones geográficos de la exclusión escolar en secundaria en Costa Rica, 2015
@@ -137,7 +139,7 @@ Estos datos se analizaron mediante dos métodos geoestadísticos, primeramente c
   </tr>
   <tr>
     <td width="10%"> Métodos propuestos </td>
-    <td width="25%">  <a href="Avance3_Mariana.pdf"> Entrega 1 </td>
+    <td width="25%">  <a href="Avance3_Mariana.pdf"> Entrega 2 </td>
   </tr>
   <tr>
     <td width="10%"> Artículo </td>
