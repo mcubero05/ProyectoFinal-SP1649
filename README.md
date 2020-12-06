@@ -121,8 +121,10 @@ Los datos fueron procesados usando R, ya que, aunque el formato de las escuelas 
 # Análisis
 
 El análisis de los datos se describe en los scripts correspondientes:
- * procesospuntuales.R
- * EstadisticaAreas.R
+ * [procesospuntuales.R](https://mcubero05.github.io/ProyectoFinal-SP1649/procesospuntuales.R)
+ * [EstadisticaAreas.R](https://mcubero05.github.io/ProyectoFinal-SP1649/EstadisticaAreas.R)
+ 
+ 
 y el artículo vinculado al repositorio.
 
 Estos datos se analizaron mediante dos métodos geoestadísticos, primeramente como un proceso puntual definido como la presencia de aquellos centros educativos con una exclusión educativa mayor a 3 puntos porcentuales. Donde se busca la presencia de un patrón sistemático, para examinar cuál es la escala espacial en la que ocurre. También, examinar si se presentan puntos de calor con mayor porcentaje de exclusión. El segundo método a utilizar es el de estadística de áreas, se prueban distintos métodos para determinar los vecinos y los pesos entre estos a nivel distrital. Una vez selecionados los vecinos y los pesos se usa la prueba de la I de Moran para determinar la existencia de auto-correlación espacial entre los distritos.
@@ -154,7 +156,11 @@ Estos datos se analizaron mediante dos métodos geoestadísticos, primeramente c
     <td width="10%"> Video  </td>
     <td width="25%">  <a href="PresentacionFinal.pdf"> Presentación grabada </td>
   </tr>
+  </table>
+  
+  
 # Contact info
+
 Mariana Cubero Corella
 
 Email personal: mari.cubero511@gmail.com 
