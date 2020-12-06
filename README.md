@@ -128,8 +128,25 @@ El análisis de los datos se describe en los scripts correspondientes:
 y el artículo vinculado al repositorio.
 
 Estos datos se analizaron mediante dos métodos geoestadísticos, primeramente como un proceso puntual definido como la presencia de aquellos centros educativos con una exclusión educativa mayor a 3 puntos porcentuales. Donde se busca la presencia de un patrón sistemático, para examinar cuál es la escala espacial en la que ocurre. También, examinar si se presentan puntos de calor con mayor porcentaje de exclusión. El segundo método a utilizar es el de estadística de áreas, se prueban distintos métodos para determinar los vecinos y los pesos entre estos a nivel distrital. Una vez selecionados los vecinos y los pesos se usa la prueba de la I de Moran para determinar la existencia de auto-correlación espacial entre los distritos.
+  
+# Contact info
 
-# Entregas
+Mariana Cubero Corella
+
+Email personal: mari.cubero511@gmail.com 
+
+Email académico: mariana.cubero@ucr.ac.cr
+
+# Licencia
+
+El código usado y presentado en este repositorio tiene una licencia [MIT](https://opensource.org/licenses/MIT), mientras que los datos y figuras tienen una licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.es), a menos que se especifique explicitamente otra licencia. Las condiciones de las licencias anteriormente mencionadas están descritas en el archivo LICENSE de este repositorio.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
+
+Licencia Creative Commons
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+
+# Resumen de entregas
 <table style="width:100%">
   <tr>
     <th width="50%"> Entrega </th>
@@ -156,22 +173,4 @@ Estos datos se analizaron mediante dos métodos geoestadísticos, primeramente c
     <td width="10%"> Video  </td>
     <td width="25%">  <a href="PresentacionFinal.pdf"> Presentación grabada </td>
   </tr>
-  </table>
-  
-  
-# Contact info
-
-Mariana Cubero Corella
-
-Email personal: mari.cubero511@gmail.com 
-
-Email académico: mariana.cubero@ucr.ac.cr
-
-# Licencia
-
-El código usado y presentado en este repositorio tiene una licencia [MIT](https://opensource.org/licenses/MIT), mientras que los datos y figuras tienen una licencia [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.es), a menos que se especifique explicitamente otra licencia. Las condiciones de las licencias anteriormente mencionadas están descritas en el archivo LICENSE de este repositorio.
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
-
-Licencia Creative Commons
-Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.
+ </table>
