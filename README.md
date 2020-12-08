@@ -171,6 +171,6 @@ Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional
     </tr>
     <tr>
     <td width="10%"> Video  </td>
-    <td width="25%">  <a href="PresentacionFinal.pdf"> Presentación grabada </td>
+    <td width="25%">  <a href="zoom_0.mp4"> Presentación grabada </td>
   </tr>
  </table>
